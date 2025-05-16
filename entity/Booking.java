@@ -1,8 +1,5 @@
 package project2.entity;
 
-import project2.entity.enums.BookingStatus;
-
-import java.time.LocalDate;
 import java.time.LocalDate;
 import java.util.UUID;
 
